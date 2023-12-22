@@ -4,7 +4,7 @@
 
 - 中文网页版： https://gpts-stores.com/zh/
 - 英文网页版： https://gpts-stores.com/
-
+- 网页版已经更新很多 欢迎先收藏
 # 分类
 
 ## 生产力
