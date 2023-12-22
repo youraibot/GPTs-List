@@ -4,7 +4,7 @@
 
 - 中文网页版： https://gpts-stores.com/zh/
 - 英文网页版： https://gpts-stores.com/
-- 英文版Awesome GPTs Directory List - GPTs Stores
+- 英文版 - Awesome GPTs Directory List - GPTs Stores
 : https://github.com/youraibot/Awesome-GPTs-Stores
 - 网页版已经更新很多 欢迎先收藏
 # 分类
